@@ -13,9 +13,9 @@ I recently stumbled upon Golang and got absolutely fascinated with it! So, activ
 
 If you like any of my apps, here are the ways you can support me:
 
-- BTC: bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr    
-- ETH: 0x276124c218aa8110F96989AA1f6f2Bb960C234B7     
-- USDT (ETH Network): 0x276124c218aa8110F96989AA1f6f2Bb960C234B7
+- BTC: `bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr`    
+- ETH: `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`     
+- USDT (ETH Network): `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`
 
 <!--
 **aceberg/aceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
