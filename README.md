@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 My name is Andrew, I’m currently working as Linux admin. I like easily configurable lightweight apps, that's why I choose Go for my Open Source projects. 
 
