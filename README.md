@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is Andrew, I’m currently working as Linux admin.     
-I recently stumbled upon Golang and got absolutely fascinated with it! So, actively learning Golang now)
+My name is Andrew, I’m currently working as Linux admin. I like easily configurable lightweight apps, that's why I choose Go for my Open Source projects. 
 
 ### Hire me
 
