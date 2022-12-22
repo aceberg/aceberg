@@ -1,3 +1,9 @@
+### Hire me
+
+- I can create a simple Golang app for you for a minimum price (starts at 100 USDT)
+
+- 📫 How to reach me: aceberg_a@proton.me
+
 ### Support my Open Source work
 
 If you like any of my apps, here are the ways you can support me:
