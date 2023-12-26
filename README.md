@@ -1,35 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Andrew, I’m currently working as Linux admin. I like easily configurable lightweight apps, that's why I choose Go for my Open Source projects. 
-
-
-### Hire me
-
-- I can create a simple Golang app for you for a minimum price (starts at $100)
-
-- 📫 How to reach me: aceberg_a@proton.me
+My name is Andrew, I am Linux admin and Self-Hosted apps developer.   
 
 
-### Support my Open Source work
+## My Open Source projects
 
-If you like any of my apps, here are the ways you can support me:
+| Name  | Description | Badges |
+| --------  | ----------- | ------- |
+| [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI  | ![GitHub License](https://img.shields.io/github/license/aceberg/WatchYourLAN) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/WatchYourLAN) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourlan)|
+| [miniboard](https://github.com/aceberg/miniboard) | Lightweight dashboard with tabs, uptime monitoring and notifications | ![GitHub License](https://img.shields.io/github/license/aceberg/miniboard) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/miniboard) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/miniboard)|
+| [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) | Workout diary | ![GitHub License](https://img.shields.io/github/license/aceberg/ExerciseDiary) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/ExerciseDiary) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/exercisediary)|
+| [rediary](https://github.com/aceberg/rediary) | Emotional resource diary | ![GitHub License](https://img.shields.io/github/license/aceberg/rediary) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/rediary) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/rediary)|
+| [HomeLists](https://github.com/aceberg/HomeLists) | Count consumable supplies | ![GitHub License](https://img.shields.io/github/license/aceberg/HomeLists) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/HomeLists) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/homelists)|
+| [git-syr](https://github.com/aceberg/git-syr) | Sync Your Repos - pull or push git repos regularly. For dotfiles backups or note taking in git repo  | ![GitHub License](https://img.shields.io/github/license/aceberg/git-syr) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/git-syr)|
+| [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | ![GitHub License](https://img.shields.io/github/license/aceberg/LinuxExecBot) ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/LinuxExecBot)|
 
-- With $USD or RUB: https://boosty.to/aceberg/donate
-- BTC: `bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr`    
-- ETH: `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`     
-- USDT (ETH Network): `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`
+## Support 
 
-<!--
-**aceberg/aceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find my Open Source work helpful, here are ways you can support it:
+- **PayPal**, **QiWi**, **Bank Card** ($USD or RUB): [boosty](https://boosty.to/aceberg/donate)
+- **BTC**: ```bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr```
+- **ETH**: ```0x276124c218aa8110F96989AA1f6f2Bb960C234B7```
+- **USDT** (ETH Network): ```0x276124c218aa8110F96989AA1f6f2Bb960C234B7```
