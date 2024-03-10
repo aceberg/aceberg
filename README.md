@@ -15,7 +15,7 @@ I'm open for freelance work as sysadmin or developer.
 
 All prices can be negotiated. Please, contact me aceberg_a@proton.me
 
-I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#support) or want to order your personal selfhosted app, be my guest ✨
+I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to order your personal selfhosted app, be my guest ✨
 
 
 ### My Open Source projects
@@ -31,7 +31,7 @@ I will continue working on Open Source projects no matter what, but I need to pa
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/LinuxExecBot?style=flat&logo=github&color=%23038000)|
 | [ClickAHabit](https://github.com/aceberg/ClickAHabit) | Daily habit tracker and counter  | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/ClickAHabit?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/clickahabit?style=flat&logo=docker)|
 
-### Support 
+### Donate
 
 If you find my Open Source work helpful, here are ways you can support it:
 - **Bank Card** ($USD or RUB): [boosty](https://boosty.to/aceberg/donate)
