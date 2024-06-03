@@ -34,6 +34,7 @@ I will continue working on Open Source projects no matter what, but I need to pa
 ### Donate
 
 If you find my Open Source work helpful, here are ways you can support it:
+- **PayPal**, **Bank Card** ($USD, €EUR): [DonationAlerts](https://www.donationalerts.com/r/andrewerlikh)
 - **Bank Card** ($USD or RUB): [boosty](https://boosty.to/aceberg/donate)
 - **BTC**: ```bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr```
 - **ETH**: ```0x276124c218aa8110F96989AA1f6f2Bb960C234B7```
