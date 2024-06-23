@@ -30,6 +30,7 @@ I will continue working on Open Source projects no matter what, but I need to pa
 | [git-syr](https://github.com/aceberg/git-syr) | Sync Your Repos - pull or push git repos regularly. For dotfiles backups or note taking in git repo  | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/git-syr?style=flat&logo=github&color=%23038000)|
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/LinuxExecBot?style=flat&logo=github&color=%23038000)|
 | [ClickAHabit](https://github.com/aceberg/ClickAHabit) | Daily habit tracker and counter  | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/ClickAHabit?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/clickahabit?style=flat&logo=docker)|
+| [WatchYourPorts](https://github.com/aceberg/WatchYourPorts) | Open ports monitor. Exports data to InfluxDB2/Grafana | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/watchyourports?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourports?style=flat&logo=docker)|
 
 ### Donate
 
