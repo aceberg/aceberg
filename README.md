@@ -5,13 +5,9 @@ I'm open for freelance work as sysadmin or developer.
 
 ### What can I do?
 
-| Work | Price |
-| --------  | ----------- |
-| Ansible playbook, Bash script, Dockerfile |starts at $10 |
-| Configure Linux server: Docker, Firewall, Monitoring, Backups and anything else | $10 per hour or fixed price for fixed amount of work |
-| Golang app with web GUI | starts at $100 |
-| Add feature to an existing app | starts at $50 |
-|  |  |
+- `Golang` app with `HTML/JS` web GUI: small, lightweight, self-hosted. Can be easily integrated with almost anything.
+- `Flutter` multiplatform app (`Android` and `Linux`, mostly).
+- `Bash` script, `Dockerfile` or `Ansible` playbook.
 
 All prices can be negotiated. Please, contact me aceberg_a@proton.me
 
