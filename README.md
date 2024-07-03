@@ -11,7 +11,7 @@ I'm open for freelance work as sysadmin or developer.
 
 All prices can be negotiated. Please, contact me aceberg_a@proton.me
 
-I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to order your personal selfhosted app, be my guest ✨
+I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your personal self-hosted app, be my guest ✨
 
 
 ### My Open Source projects
