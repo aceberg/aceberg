@@ -8,10 +8,11 @@ I'm open for freelance work as sysadmin or developer.
 - `Golang` app with `HTML/JS` web GUI: small, lightweight, self-hosted. Can be easily integrated with almost anything.
 - `Flutter` multiplatform app (`Android` and `Linux`, mostly).
 - `Bash` script, `Dockerfile` or `Ansible` playbook.
+- Any `Linux` system administration tasks.
 
 All prices can be negotiated. Please, contact me aceberg_a@proton.me
 
-I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your personal self-hosted app, be my guest ✨
+I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your personal self-hosted app, be my guest ✨
 
 
 ### My Open Source projects
@@ -19,7 +20,7 @@ I will continue working on Open Source projects no matter what, but I need to pa
 | Name  | Description | Badges |
 | --------  | ----------- | ------- |
 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI  | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/WatchYourLAN?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourlan?style=flat&logo=docker)|
-| [WatchYourPorts](https://github.com/aceberg/WatchYourPorts) | Open ports monitor. Exports data to InfluxDB2/Grafana | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/watchyourports?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourports?style=flat&logo=docker)|
+| [WatchYourPorts](https://github.com/aceberg/WatchYourPorts) | Open ports monitor. Exports data to `InfluxDB2/Grafana` | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/watchyourports?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourports?style=flat&logo=docker)|
 | [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) | Workout diary with GitHub-style year visualization | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/ExerciseDiary?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/exercisediary?style=flat&logo=docker)|
 | [miniboard](https://github.com/aceberg/miniboard) | Lightweight dashboard with tabs, uptime monitoring and notifications | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/miniboard?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/miniboard?style=flat&logo=docker)|
 | [rediary](https://github.com/aceberg/rediary) | Emotional resource diary | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/rediary?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/rediary?style=flat&logo=docker)|
