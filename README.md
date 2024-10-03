@@ -1,18 +1,20 @@
 ## Hi there 👋
 
 My name is Andrew, I am Linux admin and Self-Hosted apps developer.   
-I'm open for freelance work as sysadmin or developer.
 
-### What can I do?
+### Skills
+##### Dev
+[![My Dev Skills](https://skillicons.dev/icons?i=go,js,solidjs,bootstrap,html,css,dart,flutter)](https://skillicons.dev)   
+Go, JS (SolidJS), Bootstrap/HTML/CSS, Dart/Flutter
+##### Admin
+[![My Linux Skills](https://skillicons.dev/icons?i=linux,bash,ansible,docker,grafana,git,githubactions,bsd)](https://skillicons.dev)   
+Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, BSD
 
-- `Golang` app with `HTML/JS` web GUI: small, lightweight, self-hosted. Can be easily integrated with almost anything.
-- `Flutter` multiplatform app (`Android` and `Linux`, mostly).
-- `Bash` script, `Dockerfile` or `Ansible` playbook.
-- Any `Linux` system administration tasks.
 
-All prices can be negotiated. Please, contact me aceberg_a@proton.me
+### Contact
+aceberg_a@proton.me
 
-I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your personal self-hosted app, be my guest ✨
+I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your own self-hosted app, be my guest ✨
 
 
 ### My Open Source projects
