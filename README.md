@@ -4,8 +4,8 @@ My name is Andrew, I am Linux admin and Self-Hosted apps developer.
 
 ### Skills
 ##### Dev
-[![My Dev Skills](https://skillicons.dev/icons?i=go,js,solidjs,bootstrap,html,css,dart,flutter)](https://skillicons.dev)   
-Go, JS (SolidJS), Bootstrap/HTML/CSS, Dart/Flutter
+[![My Dev Skills](https://skillicons.dev/icons?i=go,js,ts,react,solidjs,bootstrap,html,css)](https://skillicons.dev)   
+Go, JS/TS (SolidJS, React), Bootstrap/HTML/CSS
 ##### Admin
 [![My Linux Skills](https://skillicons.dev/icons?i=linux,bash,ansible,docker,grafana,git,githubactions,bsd)](https://skillicons.dev)   
 Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, BSD
