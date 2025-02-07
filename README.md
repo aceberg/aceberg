@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Andrew, I am Linux admin and Self-Hosted apps developer.   
+My name is Andrew, I am Linux admin and Self-Hosted apps developer.  
+I am looking for a job as Frontend Developer (React) or Backend Developer (Go).   
+Please, take a look at my [CV](https://aceberg.github.io/CV/) 
 
 ### Skills
 ##### Dev
@@ -18,6 +20,7 @@ I will continue working on Open Source projects, but I need to pay the bills, so
 
 
 ### My Open Source projects
+Reviews, Videos, How-to’s and Integrations with my apps made by other people: [here](https://aceberg.github.io/posts/Reviews/)
 
 | Logo | Name  | Description | Badges |
 | -------- | --------  | ----------- | ------- |
