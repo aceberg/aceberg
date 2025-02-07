@@ -9,8 +9,8 @@ Please, take a look at my [CV](https://aceberg.github.io/CV/)
 [![My Dev Skills](https://skillicons.dev/icons?i=go,js,ts,react,solidjs,bootstrap,html,css)](https://skillicons.dev)   
 Go, JS/TS (SolidJS, React), Bootstrap/HTML/CSS
 ##### Admin
-[![My Linux Skills](https://skillicons.dev/icons?i=linux,bash,ansible,docker,grafana,git,githubactions,bsd)](https://skillicons.dev)   
-Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, BSD
+[![My Linux Skills](https://skillicons.dev/icons?i=linux,bash,ansible,docker,grafana,git,githubactions,kubernetes)](https://skillicons.dev)   
+Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, Kubernetes
 
 
 ### Contact
