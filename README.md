@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew, I am Linux admin and Self-Hosted apps developer.  
-I am looking for a job as Frontend Developer (React) or Backend Developer (Go).   
+I am Andrew, Linux engineer and Open Source developer.    
 Please, take a look at my [CV](https://aceberg.github.io/CV/) 
 
 ### Skills
@@ -14,7 +13,8 @@ Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, Kubernetes
 
 
 ### Contact
-aceberg_a@proton.me
+E-mail: aceberg_a@proton.me    
+Telegram: [@AndrewErlikh](https://t.me/AndrewErlikh)
 
 I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your own self-hosted app, be my guest ✨
 
