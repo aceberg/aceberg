@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Andrew, Linux engineer and Open Source developer.    
-<!-- Please, take a look at my [CV](https://aceberg.github.io/CV/)  -->
+Please, take a look at my [CV](https://aceberg.github.io/CV/) 
 
 ### Skills
 ##### Dev
@@ -16,7 +16,7 @@ Any Linux, Bash/Shell, Ansible, Docker, Grafana, Git, Github Actions, Kubernetes
 E-mail: aceberg_a@proton.me    
 Telegram: [@AndrewErlikh](https://t.me/AndrewErlikh)
 
-<!-- I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your own self-hosted app, be my guest ✨ -->
+I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your own self-hosted app, be my guest ✨
 
 
 ### My Open Source projects
