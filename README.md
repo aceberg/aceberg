@@ -8,7 +8,7 @@ I am Andrew, Linux engineer and Open Source developer.
 ### Contact
 E-mail: aceberg_a@proton.me    
 Telegram: [@AndrewErlikh](https://t.me/AndrewErlikh)   
-Mastodon: <a rel="me" href="https://mastodon.social/@aceberg">mastodon.social/@aceberg</a>
+Mastodon: <a rel="me" href="https://mastodon.social/@aceberg">Mastodon</a>
 
 I will continue working on Open Source projects, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#donate) or want to commission your own self-hosted app, be my guest ✨
 
